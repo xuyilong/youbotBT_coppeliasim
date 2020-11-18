@@ -1,0 +1,6 @@
+# youbotBT_coppeliasim
+在coppeliasim平台上的使用youbot机器人进行行为树探究
+
+
+需要完整代码的可以联系我
+这个代码是在Miccol的基础上修改的能自动替代失败节点的动态行为树
